@@ -88,4 +88,5 @@ const ForeCast = ({ data }) => {
   );
 };
 
+
 export default ForeCast;
